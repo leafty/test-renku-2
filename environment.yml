@@ -10,6 +10,7 @@ channels:
   - conda-forge
 dependencies:
   - flask
+  - pytorch-lightning
 # - add packages here
 # - one per line
 prefix: "/opt/conda"
