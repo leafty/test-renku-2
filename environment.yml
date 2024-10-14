@@ -8,7 +8,8 @@ name: "base"
 # these restrictions completely.
 channels:
   - conda-forge
-# dependencies:
+dependencies:
+  - flask
 # - add packages here
 # - one per line
 prefix: "/opt/conda"
